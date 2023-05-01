@@ -1,0 +1,46 @@
+body{
+    box-sizing: border-box;
+    background-image: url('images/1.jpg') ;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+    height: 100vh;
+        
+}
+
+.main-section{
+  padding: 4% 4%;
+}
+
+.container{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+.card-title{
+
+  font-family: 'Karla', sans-serif;
+  font-size: 2rem;
+}
+
+.temperature-value{
+
+  font-family: 'Karla', sans-serif;
+  font-size: 1.5rem;
+}
+
+.temperature-description{
+
+  font-family: 'Karla', sans-serif;
+  font-size: 1.2rem;
+}
+
+.loaction{
+
+  font-family: 'Karla', sans-serif;
+  font-size: 1.2rem;s
+}
